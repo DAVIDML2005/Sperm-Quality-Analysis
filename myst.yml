@@ -1,0 +1,48 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+
+  id: ee042473-4809-40d6-99ea-94cff3f37c4a
+
+  title: Caracterización y Evolución de los Parámetros Seminales
+
+  subtitle: >
+    Pacientes de un Instituto de Reproducción Humana del Caribe Colombiano
+    (2017–2025)
+
+  description: >
+    Análisis de la calidad seminal en una población de pacientes de un instituto
+    de reproducción humana del Caribe colombiano durante el período 2017–2025,
+    evaluando la distribución de los parámetros seminales, las tendencias
+    temporales y las diferencias entre grupos y períodos.
+
+  authors:
+    - name: David Ricardo Marquez Luna
+      affiliations:
+        - Universidad del Norte
+
+    - name: Cristian Camilo Linero Cantillo
+      affiliations:
+        - Universidad del Norte
+
+  toc:
+      - file: Introduccion.md
+      - file: Primer_Objetivo.ipynb
+      - file: Segundo_Objetivo.ipynb
+      - file: Tercer_Objetivo.ipynb
+      - file: Cuarto_Objetivo.ipynb
+      - file: Quinto_Objetivo.ipynb
+      - file: Sexto_Objetivo.ipynb
+
+site:
+  template: book-theme
+  
+  options:
+    favicon: logo.ico
+    logo: logo.png
+    
+    footer: false
+
+    search: true
+    toc_maxdepth: 3
