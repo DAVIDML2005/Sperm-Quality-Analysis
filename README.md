@@ -8,6 +8,11 @@ El estudio busca caracterizar la calidad seminal de la población analizada, ide
 
 El análisis integra procedimientos de exploración y validación de datos, pruebas estadísticas, clasificación según criterios de referencia de la Organización Mundial de la Salud (OMS) y modelos de regresión para evaluar la relación entre el año de estudio y diferentes parámetros cuantitativos.
 
+## Colaboradores
+
+* David Ricardo Marquez Luna (https://github.com/DAVIDML2005)
+* Cristian Camilo Linero Cantillo (https://github.com/cristianclc)
+
 ## Objetivos
 
 ### Objetivo general
