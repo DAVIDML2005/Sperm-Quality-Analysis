@@ -80,8 +80,6 @@ El análisis estadístico se fundamenta en la aplicación de pruebas apropiadas 
 
 Este enfoque metodológico garantiza la robustez de los resultados y la validez de las conclusiones derivadas del estudio, permitiendo realizar inferencias confiables sobre la evolución de la calidad seminal en la población estudiada.
 
-Perfecto, David. Aquí tienes las referencias completas en formato académico (APA 7ª edición) para que las agregues al final de tu introducción. He buscado los DOI cuando existen y, cuando no, dejé la URL oficial:
-
 
 ## **Referencias**
 
